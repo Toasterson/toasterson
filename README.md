@@ -1,4 +1,8 @@
-### Hi there 👋
+# Till Wegmüller—@toasterson
+
+Grüessech, and welcome to my profile. I am Till but most people call me Toasty. I work as an Independant developer in Europe and Brasil and I am always looking for fun projects to do. I mainly develop with Go, Rust, React (Native) and for the cloud or as it's sometimes called it in the EU the Klaut. My professional knowledge includes kubernetes and Unix and hacking together all the things :)
+
+# 
 
 <!--
 **Toasterson/toasterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
