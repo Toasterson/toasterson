@@ -34,3 +34,6 @@ I am always looking for 👯 collaborators on projects maybe something in this l
 - Corporate Mail: [till.wegmueller@openflowlabs.com](mailto:till.wegmueller@openflowlabs.com)
 - Personal Mail: [toasterson@gmail.com](mailto:toasterson@gmail.com)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
