@@ -24,6 +24,8 @@ I am always looking for 👯 collaborators on projects maybe something in this l
 - [Aurora OpenCloud](https://github.com/OpenFlowLabs/aurora-opencloud)
 - [Over Engineered expense Receipt Archive](https://github.com/OpenFlowLabs/expensebills)
 
+![GitHub Snake dark](https://raw.githubusercontent.com/toasterson/toasterson/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 # How to reach me:
 
 - Twitter: [@TheRealToaster](https://twitter.com/TheRealToaster)
