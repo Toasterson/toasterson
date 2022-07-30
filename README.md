@@ -36,4 +36,6 @@ I am always looking for 👯 collaborators on projects maybe something in this l
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Devlog #1](https://wegmueller.it/posts/devlog-1/)
+- [New Blog](https://wegmueller.it/posts/new-blog/)
 <!-- BLOG-POST-LIST:END -->
