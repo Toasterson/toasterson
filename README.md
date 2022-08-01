@@ -21,7 +21,7 @@ I own and contract via OpenFlowLabs. You can contact me via [contact@openflowlab
 I am always looking for 👯 collaborators on projects maybe something in this list interests you?
 - [illumos](https://www.illumos.org/)
 - [IPS in Rust](https://github.com/OpenFlowLabs/ips)
-- [Aurora OpenCloud](https://github.com/OpenFlowLabs/aurora-opencloud)
+- [Aurora OpenCloud (Federated Cloud Orchestrator for illumos)](https://github.com/OpenFlowLabs/aurora-opencloud)
 - [Over Engineered expense Receipt Archive](https://github.com/OpenFlowLabs/expensebills)
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/toasterson/toasterson/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
