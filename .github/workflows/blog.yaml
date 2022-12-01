@@ -4,9 +4,9 @@ on:
   #  - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
   # run on every push on the master branch
-  push:
-    branches:
-    - master
+  #push:
+  #  branches:
+  #  - master
 
 jobs:
   update-readme-with-blog:
