@@ -25,8 +25,6 @@ I am always looking for 👯 collaborators on projects maybe something in this l
 - [Patreon](https://patreon.com/toasterson)
 - [Paypal](https://paypal.me/toasterson) 
 
-![GitHub Snake dark](https://raw.githubusercontent.com/toasterson/toasterson/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 # How to reach me:
 
 - Mastodon: [@Toasterson@chaos.social](https://chaos.social/@Toasterson)
