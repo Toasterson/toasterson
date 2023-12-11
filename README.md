@@ -1,7 +1,7 @@
 # Till Wegmüller—@toasterson
 
 Grüessech, and welcome to my profile. I am Till but most people call me Toasty. 
-I work as an Independant developer in Europe and Brasil and 
+I work as an independent developer in Europe and Brasil and 
 I am always looking for fun projects to do. I mainly develop with Go, Rust, Svelte 
 and in the cloud or simply sombeody elses computer.
 My professional knowledge includes kubernetes and Unix and hacking together all the things :)
